@@ -3,7 +3,7 @@ It's my academic project, it's an e-commerce web application that has an adminis
 ------- Technologies: NodeJs, ExpressJs, ReactJS, Redux,  MongoDB and PayPal API
  * Clone project 
  * Run npm install
- * Add .env file in root directory , .env example :  https://mega.nz/file/SkcnnDDI#OYmcED2TYZoIf6IQumvecU2LCz-MuTSI57KM7UnLiz0
+ * Add .env file in root directory , .env example :  https://mega.nz/file/6x1BEZBY#IgSOJjtWjJB0ZhEVufYRxJ0fBRgHgmiE0I9eVGdyJ9w
  * cd frontend && npm npm install
  * cd backend && npm install 
  * In root : npm run dev OR you can run npm start in each folder (frontend and backend)
